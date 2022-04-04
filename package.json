@@ -9,6 +9,7 @@
   "author": "Nguyen Trung Hieu",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.1.3"
+    "bootstrap": "^5.1.3",
+    "reactstrap": "^9.0.1"
   }
 }
